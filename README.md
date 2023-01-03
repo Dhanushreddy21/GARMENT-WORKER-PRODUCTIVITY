@@ -7,7 +7,7 @@ Completed this project as part of my Data Science and Machine Learning Internshi
 
 COLAB NOTEBOOK LINK:
 
-https://github.com/Dhanushreddy21/GARMENT-WORKER-PRODUCTIVITY/blob/main/Garment_Worker_Productivity_Dataset_%20(2).ipynb
+https://github.com/Dhanushreddy21/GARMENT-WORKER-PRODUCTIVITY/blob/main/Garment_Worker_Productivity_Dataset_%20(4).ipynb
 
 PROJECT PRESENTATION LINK
 
