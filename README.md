@@ -6,6 +6,6 @@ Completed this project as part of my Data Science and Machine Learning Internshi
 - Compared the results to recommend the best Regression model. 
 
 COLAB NOTEBOOK LINK:
-https://colab.research.google.com/drive/1YxL3c9jOoHXzC0iv4jbwcdGOccS-xCW-#scrollTo=IokiNRtlOj3m
+https://github.com/Dhanushreddy21/GARMENT-WORKER-PRODUCTIVITY/blob/main/Garment_Worker_Productivity_Dataset_%20(2).ipynb
 PROJECT PRESENTATION LINK
 https://drive.google.com/file/d/1rnua6vbsrT4q7GL1pn1n1yXNhuu8Hify/view?usp=share_link
